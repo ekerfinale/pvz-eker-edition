@@ -1,0 +1,26 @@
+Exception: Access Violation (code 0xc0000005) at address 77D28345 in thread 1530
+Module: ntdll.dll
+Logical Address: 0001:00047345
+
+0019F2E4 77D28345 RtlAllocateHeap+2485 [(Unknown File Name)(0)+0x00000000]
+Params: 00008000 00008008 00000000 0019F348
+
+
+EAX:11C4E960 EBX:11C4E958 ECX:11DAE470 EDX:00000000 ESI:000002F6 EDI:03140000
+EIP:77D28345 ESP:0019F144  EBP:0019F2E4
+CS:0023 SS:002B DS:002B ES:002B FS:0053 GS:002B
+Flags:00010287
+
+Windows Ver: NT 6.2  Build 9200
+DDraw Ver: 
+DSound Ver: 
+
+Product: PlantsVsZombies
+Version: 1.0.0.1051
+Time Loaded: 00:07:41
+Fullscreen: Yes
+Primary ThreadId: 1530
+Times Played: 0
+Build Num: 0
+Build Date: 
+
